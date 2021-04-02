@@ -19357,7 +19357,7 @@ $color_pallate_15: #ed0b4c; */
     background-color: var(--primary);
     border-color: var(--primary);
     color: #fff;
-    box-shadow: 0 10px 20px 0px rgba(255, 114, 13, 0.2); }
+    /*box-shadow: 0 10px 20px 0px rgba(255, 114, 13, 0.2);*/ }
     [data-theme-version="dark"] [data-primary="color_2"] .pagination .page-item.active .page-link {
       color: #fff; }
   [data-primary="color_2"] .pagination.no-bg li:not(.page-indicator):not(.active) .page-link {
@@ -20079,7 +20079,7 @@ $color_pallate_15: #ed0b4c; */
     background-color: var(--primary);
     border-color: var(--primary);
     color: #fff;
-    box-shadow: 0 10px 20px 0px rgba(255, 114, 13, 0.2); }
+    /*box-shadow: 0 10px 20px 0px rgba(255, 114, 13, 0.2);*/ }
     [data-theme-version="dark"] [data-primary="color_3"] .pagination .page-item.active .page-link {
       color: #fff; }
   [data-primary="color_3"] .pagination.no-bg li:not(.page-indicator):not(.active) .page-link {
@@ -20102,7 +20102,7 @@ $color_pallate_15: #ed0b4c; */
   [data-primary="color_3"] .pagination-primary .page-item:hover .page-link, [data-primary="color_3"] .pagination-primary .page-item.active .page-link {
     background: var(--primary);
     border-color: var(--primary);
-    box-shadow: 0 10px 20px 0px rgba(255, 114, 13, 0.2); }
+    /*box-shadow: 0 10px 20px 0px rgba(255, 114, 13, 0.2);*/ }
     [data-theme-version="dark"] [data-primary="color_3"] .pagination-primary .page-item:hover .page-link, [data-theme-version="dark"] [data-primary="color_3"] .pagination-primary .page-item.active .page-link {
       color: #fff; }
   [data-primary="color_3"] .bootstrap-popover-wrapper .bootstrap-popover button:hover,
@@ -20358,7 +20358,7 @@ $color_pallate_15: #ed0b4c; */
   [data-primary="color_3"] .pagination-primary .page-item:hover .page-link, [data-primary="color_3"] .pagination-primary .page-item.active .page-link {
     background: var(--primary);
     border-color: var(--primary);
-    box-shadow: 0 10px 20px 0px rgba(255, 114, 13, 0.2); }
+    /*box-shadow: 0 10px 20px 0px rgba(255, 114, 13, 0.2);*/ }
     [data-theme-version="dark"] [data-primary="color_3"] .pagination-primary .page-item:hover .page-link, [data-theme-version="dark"] [data-primary="color_3"] .pagination-primary .page-item.active .page-link {
       color: #fff; }
   [data-primary="color_3"] #external-events [data-class="bg-primary"]::before {
@@ -20801,7 +20801,7 @@ $color_pallate_15: #ed0b4c; */
     background-color: var(--primary);
     border-color: var(--primary);
     color: #fff;
-    box-shadow: 0 10px 20px 0px rgba(255, 114, 13, 0.2); }
+    /*box-shadow: 0 10px 20px 0px rgba(255, 114, 13, 0.2);*/ }
     [data-theme-version="dark"] [data-primary="color_4"] .pagination .page-item.active .page-link {
       color: #fff; }
   [data-primary="color_4"] .pagination.no-bg li:not(.page-indicator):not(.active) .page-link {
@@ -21523,7 +21523,7 @@ $color_pallate_15: #ed0b4c; */
     background-color: var(--primary);
     border-color: var(--primary);
     color: #fff;
-    box-shadow: 0 10px 20px 0px rgba(255, 114, 13, 0.2); }
+    /*box-shadow: 0 10px 20px 0px rgba(255, 114, 13, 0.2);*/ }
     [data-theme-version="dark"] [data-primary="color_5"] .pagination .page-item.active .page-link {
       color: #fff; }
   [data-primary="color_5"] .pagination.no-bg li:not(.page-indicator):not(.active) .page-link {
@@ -22245,7 +22245,7 @@ $color_pallate_15: #ed0b4c; */
     background-color: var(--primary);
     border-color: var(--primary);
     color: #fff;
-    box-shadow: 0 10px 20px 0px rgba(255, 114, 13, 0.2); }
+    /*box-shadow: 0 10px 20px 0px rgba(255, 114, 13, 0.2);*/ }
     [data-theme-version="dark"] [data-primary="color_6"] .pagination .page-item.active .page-link {
       color: #fff; }
   [data-primary="color_6"] .pagination.no-bg li:not(.page-indicator):not(.active) .page-link {
@@ -22967,7 +22967,7 @@ $color_pallate_15: #ed0b4c; */
     background-color: var(--primary);
     border-color: var(--primary);
     color: #fff;
-    box-shadow: 0 10px 20px 0px rgba(255, 114, 13, 0.2); }
+    /*box-shadow: 0 10px 20px 0px rgba(255, 114, 13, 0.2);*/ }
     [data-theme-version="dark"] [data-primary="color_7"] .pagination .page-item.active .page-link {
       color: #fff; }
   [data-primary="color_7"] .pagination.no-bg li:not(.page-indicator):not(.active) .page-link {
@@ -23689,7 +23689,7 @@ $color_pallate_15: #ed0b4c; */
     background-color: var(--primary);
     border-color: var(--primary);
     color: #fff;
-    box-shadow: 0 10px 20px 0px rgba(255, 114, 13, 0.2); }
+    /*box-shadow: 0 10px 20px 0px rgba(255, 114, 13, 0.2);*/ }
     [data-theme-version="dark"] [data-primary="color_8"] .pagination .page-item.active .page-link {
       color: #fff; }
   [data-primary="color_8"] .pagination.no-bg li:not(.page-indicator):not(.active) .page-link {
@@ -24411,7 +24411,7 @@ $color_pallate_15: #ed0b4c; */
     background-color: var(--primary);
     border-color: var(--primary);
     color: #fff;
-    box-shadow: 0 10px 20px 0px rgba(255, 114, 13, 0.2); }
+    /*box-shadow: 0 10px 20px 0px rgba(255, 114, 13, 0.2);*/ }
     [data-theme-version="dark"] [data-primary="color_9"] .pagination .page-item.active .page-link {
       color: #fff; }
   [data-primary="color_9"] .pagination.no-bg li:not(.page-indicator):not(.active) .page-link {
@@ -25133,7 +25133,7 @@ $color_pallate_15: #ed0b4c; */
     background-color: var(--primary);
     border-color: var(--primary);
     color: #fff;
-    box-shadow: 0 10px 20px 0px rgba(255, 114, 13, 0.2); }
+    /*box-shadow: 0 10px 20px 0px rgba(255, 114, 13, 0.2);*/ }
     [data-theme-version="dark"] [data-primary="color_10"] .pagination .page-item.active .page-link {
       color: #fff; }
   [data-primary="color_10"] .pagination.no-bg li:not(.page-indicator):not(.active) .page-link {
@@ -25855,7 +25855,7 @@ $color_pallate_15: #ed0b4c; */
     background-color: var(--primary);
     border-color: var(--primary);
     color: #fff;
-    box-shadow: 0 10px 20px 0px rgba(255, 114, 13, 0.2); }
+    /*box-shadow: 0 10px 20px 0px rgba(255, 114, 13, 0.2);*/ }
     [data-theme-version="dark"] [data-primary="color_11"] .pagination .page-item.active .page-link {
       color: #fff; }
   [data-primary="color_11"] .pagination.no-bg li:not(.page-indicator):not(.active) .page-link {
@@ -26577,7 +26577,7 @@ $color_pallate_15: #ed0b4c; */
     background-color: var(--primary);
     border-color: var(--primary);
     color: #fff;
-    box-shadow: 0 10px 20px 0px rgba(255, 114, 13, 0.2); }
+    /*box-shadow: 0 10px 20px 0px rgba(255, 114, 13, 0.2);*/ }
     [data-theme-version="dark"] [data-primary="color_12"] .pagination .page-item.active .page-link {
       color: #fff; }
   [data-primary="color_12"] .pagination.no-bg li:not(.page-indicator):not(.active) .page-link {
@@ -27299,7 +27299,7 @@ $color_pallate_15: #ed0b4c; */
     background-color: var(--primary);
     border-color: var(--primary);
     color: #fff;
-    box-shadow: 0 10px 20px 0px rgba(255, 114, 13, 0.2); }
+    /*box-shadow: 0 10px 20px 0px rgba(255, 114, 13, 0.2);*/ }
     [data-theme-version="dark"] [data-primary="color_13"] .pagination .page-item.active .page-link {
       color: #fff; }
   [data-primary="color_13"] .pagination.no-bg li:not(.page-indicator):not(.active) .page-link {
@@ -28021,7 +28021,7 @@ $color_pallate_15: #ed0b4c; */
     background-color: var(--primary);
     border-color: var(--primary);
     color: #fff;
-    box-shadow: 0 10px 20px 0px rgba(255, 114, 13, 0.2); }
+    /*box-shadow: 0 10px 20px 0px rgba(255, 114, 13, 0.2);*/ }
     [data-theme-version="dark"] [data-primary="color_14"] .pagination .page-item.active .page-link {
       color: #fff; }
   [data-primary="color_14"] .pagination.no-bg li:not(.page-indicator):not(.active) .page-link {
@@ -28743,7 +28743,7 @@ $color_pallate_15: #ed0b4c; */
     background-color: var(--primary);
     border-color: var(--primary);
     color: #fff;
-    box-shadow: 0 10px 20px 0px rgba(255, 114, 13, 0.2); }
+    /*box-shadow: 0 10px 20px 0px rgba(255, 114, 13, 0.2);*/ }
     [data-theme-version="dark"] [data-primary="color_15"] .pagination .page-item.active .page-link {
       color: #fff; }
   [data-primary="color_15"] .pagination.no-bg li:not(.page-indicator):not(.active) .page-link {
@@ -34681,7 +34681,7 @@ code {
     background-color: var(--primary);
     border-color: var(--primary);
     color: #fff;
-    box-shadow: 0 10px 20px 0px rgba(255, 114, 13, 0.2); }
+    /*box-shadow: 0 10px 20px 0px rgba(255, 114, 13, 0.2);*/ }
     [data-theme-version="dark"] .pagination .page-item.active .page-link {
       color: #fff; }
   .pagination .page-item .page-link {
